@@ -1,0 +1,15 @@
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\bin\Debug\net5.0\Simplest_DDoS.exe
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\bin\Debug\net5.0\Simplest_DDoS.deps.json
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\bin\Debug\net5.0\Simplest_DDoS.runtimeconfig.json
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\bin\Debug\net5.0\Simplest_DDoS.runtimeconfig.dev.json
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\bin\Debug\net5.0\Simplest_DDoS.dll
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\bin\Debug\net5.0\Simplest_DDoS.pdb
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\Simplest_DDoS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\Simplest_DDoS.AssemblyInfoInputs.cache
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\Simplest_DDoS.AssemblyInfo.cs
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\Simplest_DDoS.csproj.CoreCompileInputs.cache
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\Simplest_DDoS.dll
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\refint\Simplest_DDoS.dll
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\Simplest_DDoS.pdb
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\Simplest_DDoS.genruntimeconfig.cache
+C:\Users\OAK\Desktop\Code Projects\Simplest_DDoS\obj\Debug\net5.0\ref\Simplest_DDoS.dll

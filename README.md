@@ -1,3 +1,5 @@
 # Disclaimer
 
-personal educational purposes only"# Simplest-DDoS" 
+personal educational purposes only
+
+feel free to edit but make it better
